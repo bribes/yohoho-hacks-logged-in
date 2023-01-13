@@ -1,4 +1,4 @@
-# YoHoHo.io hacks that work LOGGED IN
+# YoHoHo.io Hacks that work LOGGED IN
 By Faav#6320
 This hack gives lets you set the coins on your account to anything but you can make a issue here for me to make more that give you stats and other stuff.
 
