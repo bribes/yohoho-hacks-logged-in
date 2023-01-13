@@ -1,5 +1,6 @@
 # YoHoHo.io hacks that work LOGGED IN
 By Faav#6320
+This hack gives you coins but you can make a issue here for me to make more that give you stats and other stuff.
 
 ### Installation
 For easy setup go the the website at https://bribes.github.io/yohoho-hacks-logged-in
