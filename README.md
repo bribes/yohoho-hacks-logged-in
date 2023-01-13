@@ -12,7 +12,7 @@ For easy setup go the the website at https://bribes.github.io/yohoho-hacks-logge
 3. Set the name to `YoHoHo` and the URL to the code below or [here](https://github.com/bribes/yohoho-hacks-logged-in/blob/main/bookmarklet.js)
 
 ```js
-javascript:(function () {var a = document.createElement('script');a.setAttribute("async", "");a.src = 'https://cdn.jsdelivr.net/gh/bribes/yohoho-hacks-logged-in/setcoins-hack.min.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.setAttribute('async', '');a.src = 'https://cdn.jsdelivr.net/gh/bribes/yohoho-hacks-logged-in/setcoins-hack.min.js';document.body.appendChild(a);}())
 ```
 
 Bookmarklet template taken from Ingot by Fog Network
