@@ -2,10 +2,10 @@
 By Faav#6320
 This hack gives lets you set the coins on your account to anything but you can make a issue here for me to make more that give you stats and other stuff.
 
-### Get infinite coins to your account
+### Set Coins Hack
 For easy setup go the the website at https://bribes.github.io/yohoho-hacks-logged-in
 
-1. Show your bookmarks bar with `ctrl + shift + b`
+1. Show your bookmarks bar with `ctro + shift + b`
 
 2. Right click on the bar and choose `Add Page`
 
